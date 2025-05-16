@@ -1,0 +1,13 @@
+{
+    "name": "Hrithik NFT #1",
+    "description": "This is a Silver NFT of Hrithik collection.",
+    "about":"Buy More Save More.",
+    "image": "https://ipfs.io/ipfs/bafkreiafcqfrbjlyklfgon2zs7s65txgetua2woevpa35ssuf3umlnnjky",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Silver"
+      }
+    ]
+  }
+

@@ -1,0 +1,18 @@
+[2025-04-18T10:00:43.814Z] ERROR: Transaction failed: Web3 validator found 1 error[s]:
+value "0xEbF070" at "/0" must pass "address" validation
+[2025-04-18T10:03:19.413Z] ERROR: Transaction failed: Error happened while trying to execute a function inside a smart contract
+[2025-04-18T10:03:42.445Z] ERROR: Transaction failed: Error happened while trying to execute a function inside a smart contract
+[2025-04-18T10:04:30.230Z] ERROR: Transaction failed: Error happened while trying to execute a function inside a smart contract
+[2025-04-18T10:07:07.689Z] ERROR: Transaction failed: Error happened while trying to execute a function inside a smart contract
+[2025-04-18T10:07:59.582Z] ERROR: Transaction failed: Error happened while trying to execute a function inside a smart contract
+[2025-04-18T10:08:34.708Z] ERROR: Transaction failed: Error happened while trying to execute a function inside a smart contract
+[2025-04-18T10:09:05.182Z] ERROR: Transaction failed: Error happened while trying to execute a function inside a smart contract
+[2025-04-18T10:11:54.091Z] ERROR: Transaction failed: Error happened while trying to execute a function inside a smart contract
+[2025-04-18T10:12:46.520Z] ERROR: Transaction failed: Error happened while trying to execute a function inside a smart contract
+[2025-04-18T10:28:37.795Z] ERROR: Transaction failed: Error happened while trying to execute a function inside a smart contract
+[2025-04-18T11:46:26.801Z] ERROR: Transaction failed: Error happened while trying to execute a function inside a smart contract
+[2025-04-18T11:59:26.223Z] ERROR: Transaction failed: Error happened while trying to execute a function inside a smart contract
+[2025-04-18T12:01:53.944Z] ERROR: Transaction failed: Error happened while trying to execute a function inside a smart contract
+[2025-04-18T12:02:09.890Z] ERROR: Transaction failed: Error happened while trying to execute a function inside a smart contract
+[2025-04-18T12:03:26.236Z] ERROR: Transaction failed: Error happened while trying to execute a function inside a smart contract
+[2025-04-18T12:14:27.192Z] ERROR: Transaction failed: Error happened while trying to execute a function inside a smart contract

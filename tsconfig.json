@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "commonjs",
+    "outDir": "./dist",  // All JS files should go here
+    "rootDir": "./src",  // Only TS files should be here
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "resolveJsonModule": true, // This line is the key to solving the error
+    "moduleResolution": "node" // Ensures modules are resolved like in Node.js
+  },
+  "include": ["src/**/*.ts"],  // Include only TypeScript files
+  "exclude": ["node_modules", "dist", "**/*.js"]  // Exclude JS files
+}

@@ -1,0 +1,2 @@
+[2025-05-14T19:08:01.667Z] ERROR: Transaction failed: Error happened while trying to execute a function inside a smart contract
+[2025-05-15T05:16:33.349Z] ERROR: ❌ MongoDB Connection Error: connect ECONNREFUSED 127.0.0.1:27017, connect ECONNREFUSED ::1:27017

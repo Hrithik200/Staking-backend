@@ -1,0 +1,18 @@
+{
+    "cSpell.words": [
+        "bullmq",
+        "hasrole",
+        "keccak",
+        "middelwares",
+        "techky"
+    ]
+,
+"mongoRunner": {
+    "connections": [
+        {
+            "name": "localDB",
+            "url": "mongodb://localhost:27017/staking-backend"
+        }
+    ]
+}
+}

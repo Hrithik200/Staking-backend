@@ -1,0 +1,104 @@
+[2025-05-02T03:58:01.525Z] INFO: ✅Server running on port 4000
+[2025-05-02T03:58:31.525Z] ERROR: ❌ MongoDB Connection Error: connect ECONNREFUSED 127.0.0.1:27017, connect ECONNREFUSED ::1:27017
+[2025-05-02T03:58:49.200Z] INFO: ✅Server running on port 4000
+[2025-05-02T03:58:49.226Z] INFO: ✅ MongoDB Connected
+[2025-05-02T04:11:36.744Z] INFO: ✅Server running on port 4000
+[2025-05-02T04:11:36.770Z] INFO: ✅ MongoDB Connected
+[2025-05-02T04:20:40.744Z] INFO: ✅Server running on port 4000
+[2025-05-02T04:20:40.776Z] INFO: ✅ MongoDB Connected
+[2025-05-02T04:35:16.689Z] INFO: ✅Server running on port 4000
+[2025-05-02T04:35:16.715Z] INFO: ✅ MongoDB Connected
+[2025-05-02T04:38:08.019Z] INFO: ✅Server running on port 4000
+[2025-05-02T04:38:08.047Z] INFO: ✅ MongoDB Connected
+[2025-05-02T04:39:07.318Z] INFO: ✅Server running on port 4000
+[2025-05-02T04:39:07.350Z] INFO: ✅ MongoDB Connected
+[2025-05-02T04:39:17.639Z] INFO: ✅Server running on port 4000
+[2025-05-02T04:39:17.671Z] INFO: ✅ MongoDB Connected
+[2025-05-02T04:39:35.945Z] INFO: ✅Server running on port 4000
+[2025-05-02T04:39:35.979Z] INFO: ✅ MongoDB Connected
+[2025-05-02T04:39:56.491Z] INFO: ✅Server running on port 4000
+[2025-05-02T04:39:56.522Z] INFO: ✅ MongoDB Connected
+[2025-05-02T04:40:09.725Z] INFO: ✅Server running on port 4000
+[2025-05-02T04:40:09.753Z] INFO: ✅ MongoDB Connected
+[2025-05-02T04:41:35.790Z] INFO: ✅Server running on port 4000
+[2025-05-02T04:41:35.824Z] INFO: ✅ MongoDB Connected
+[2025-05-02T04:42:53.286Z] INFO: ✅Server running on port 4000
+[2025-05-02T04:42:53.322Z] INFO: ✅ MongoDB Connected
+[2025-05-02T09:46:55.769Z] INFO: ✅Server running on port 4000
+[2025-05-02T09:46:55.806Z] INFO: ✅ MongoDB Connected
+[2025-05-02T10:02:36.145Z] INFO: ✅Server running on port 4000
+[2025-05-02T10:02:36.181Z] INFO: ✅ MongoDB Connected
+[2025-05-02T10:05:05.997Z] INFO: ✅Server running on port 4000
+[2025-05-02T10:05:06.025Z] INFO: ✅ MongoDB Connected
+[2025-05-02T10:05:19.023Z] INFO: ✅Server running on port 4000
+[2025-05-02T10:05:19.059Z] INFO: ✅ MongoDB Connected
+[2025-05-02T10:06:20.899Z] INFO: ✅Server running on port 4000
+[2025-05-02T10:06:20.946Z] INFO: ✅ MongoDB Connected
+[2025-05-02T10:06:33.130Z] INFO: ✅Server running on port 4000
+[2025-05-02T10:06:33.161Z] INFO: ✅ MongoDB Connected
+[2025-05-02T10:06:52.093Z] INFO: ✅Server running on port 4000
+[2025-05-02T10:06:52.135Z] INFO: ✅ MongoDB Connected
+[2025-05-02T10:07:09.889Z] INFO: ✅Server running on port 4000
+[2025-05-02T10:07:09.916Z] INFO: ✅ MongoDB Connected
+[2025-05-02T10:07:34.664Z] INFO: ✅Server running on port 4000
+[2025-05-02T10:07:34.697Z] INFO: ✅ MongoDB Connected
+[2025-05-02T10:07:46.358Z] INFO: ✅Server running on port 4000
+[2025-05-02T10:07:46.391Z] INFO: ✅ MongoDB Connected
+[2025-05-02T10:07:54.055Z] INFO: ✅Server running on port 4000
+[2025-05-02T10:07:54.135Z] INFO: ✅ MongoDB Connected
+[2025-05-02T10:08:02.175Z] INFO: ✅Server running on port 4000
+[2025-05-02T10:08:02.205Z] INFO: ✅ MongoDB Connected
+[2025-05-02T10:08:29.115Z] INFO: ✅Server running on port 4000
+[2025-05-02T10:08:29.150Z] INFO: ✅ MongoDB Connected
+[2025-05-02T10:09:06.101Z] INFO: ✅Server running on port 4000
+[2025-05-02T10:09:06.133Z] INFO: ✅ MongoDB Connected
+[2025-05-02T10:09:45.185Z] INFO: ✅Server running on port 4000
+[2025-05-02T10:09:45.222Z] INFO: ✅ MongoDB Connected
+[2025-05-02T10:09:57.760Z] INFO: ✅Server running on port 4000
+[2025-05-02T10:09:57.794Z] INFO: ✅ MongoDB Connected
+[2025-05-02T10:10:18.536Z] INFO: ✅Server running on port 4000
+[2025-05-02T10:10:18.582Z] INFO: ✅ MongoDB Connected
+[2025-05-02T10:10:25.289Z] INFO: ✅Server running on port 4000
+[2025-05-02T10:10:25.320Z] INFO: ✅ MongoDB Connected
+[2025-05-02T10:10:46.455Z] INFO: ✅Server running on port 4000
+[2025-05-02T10:10:46.501Z] INFO: ✅ MongoDB Connected
+[2025-05-02T10:10:53.202Z] INFO: ✅Server running on port 4000
+[2025-05-02T10:10:53.240Z] INFO: ✅ MongoDB Connected
+[2025-05-02T10:12:08.963Z] INFO: ✅Server running on port 4000
+[2025-05-02T10:12:08.990Z] INFO: ✅ MongoDB Connected
+[2025-05-02T10:14:09.824Z] INFO: ✅Server running on port 4000
+[2025-05-02T10:14:09.860Z] INFO: ✅ MongoDB Connected
+[2025-05-02T10:19:58.729Z] INFO: ✅Server running on port 4000
+[2025-05-02T10:19:58.777Z] INFO: ✅ MongoDB Connected
+[2025-05-02T10:38:22.735Z] INFO: ✅Server running on port 4000
+[2025-05-02T10:38:22.781Z] INFO: ✅ MongoDB Connected
+[2025-05-02T10:39:29.960Z] INFO: ✅Server running on port 4000
+[2025-05-02T10:39:30.026Z] INFO: ✅ MongoDB Connected
+[2025-05-02T10:51:41.492Z] INFO: ✅Server running on port 4000
+[2025-05-02T10:51:41.521Z] INFO: ✅ MongoDB Connected
+[2025-05-02T10:51:56.649Z] INFO: ✅Server running on port 4000
+[2025-05-02T10:51:56.685Z] INFO: ✅ MongoDB Connected
+[2025-05-02T10:58:31.046Z] INFO: ✅Server running on port 4000
+[2025-05-02T10:58:31.075Z] INFO: ✅ MongoDB Connected
+[2025-05-02T10:59:34.277Z] INFO: ✅Server running on port 4000
+[2025-05-02T10:59:34.319Z] INFO: ✅ MongoDB Connected
+[2025-05-02T11:00:12.482Z] INFO: ✅Server running on port 4000
+[2025-05-02T11:00:12.513Z] INFO: ✅ MongoDB Connected
+[2025-05-02T11:01:22.343Z] INFO: ✅Server running on port 4000
+[2025-05-02T11:01:22.549Z] INFO: ✅ MongoDB Connected
+[2025-05-02T11:01:57.502Z] INFO: ✅Server running on port 4000
+[2025-05-02T11:01:57.532Z] INFO: ✅ MongoDB Connected
+[2025-05-02T11:05:53.443Z] INFO: ✅Server running on port 4000
+[2025-05-02T11:05:53.486Z] INFO: ✅ MongoDB Connected
+[2025-05-02T11:12:35.452Z] INFO: ✅Server running on port 4000
+[2025-05-02T11:12:35.494Z] INFO: ✅ MongoDB Connected
+[2025-05-02T13:44:09.352Z] INFO: ✅Server running on port 4000
+[2025-05-02T13:44:09.382Z] INFO: ✅ MongoDB Connected
+[2025-05-02T13:44:56.026Z] INFO: ✅Server running on port 4000
+[2025-05-02T13:44:56.070Z] INFO: ✅ MongoDB Connected
+[2025-05-02T13:46:03.115Z] INFO: ✅Server running on port 4000
+[2025-05-02T13:46:03.144Z] INFO: ✅ MongoDB Connected
+[2025-05-02T13:47:25.615Z] INFO: ✅Server running on port 4000
+[2025-05-02T13:47:25.655Z] INFO: ✅ MongoDB Connected
+[2025-05-02T13:47:43.597Z] INFO: ✅Server running on port 4000
+[2025-05-02T13:47:43.640Z] INFO: ✅ MongoDB Connected

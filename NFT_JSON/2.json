@@ -1,0 +1,12 @@
+{
+    "name": "Hrithik NFT #2",
+    "description": "This is a Gold NFT of Hrithik collection.",
+    "about":"Buy More Save More.",
+    "image": "https://ipfs.io/ipfs/bafkreiaei2yq5kuqalhibjdkea7mernyxagdtilhxoeoeikeiqd5o7pqvi",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Gold"
+      }
+    ]
+  }

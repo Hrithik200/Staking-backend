@@ -1,0 +1,359 @@
+[2025-05-14T18:30:36.897Z] INFO: ✅Server running on port 4000
+[2025-05-14T18:30:36.939Z] INFO: ✅ MongoDB Connected
+[2025-05-14T18:30:38.142Z] INFO: In the Middlewares....
+[2025-05-14T18:30:38.582Z] INFO: in the worker's transaction 
+[2025-05-14T18:30:38.583Z] INFO: in the Service transaction 
+[2025-05-14T18:30:41.702Z] INFO: SaveTransaction------,0xDAf96cB61d28799b3B174C56D3E9335838E5e46D,0xEbF0701BFf3996B1E443Ce74959C8DEd304B1f11,11,0x05fefb7af9e6f109ab6656994f61e57e26a3416255a2b008fe3c0d512ddde31f
+[2025-05-14T18:31:26.893Z] INFO: Service Updated,[object Object],0x05fefb7af9e6f109ab6656994f61e57e26a3416255a2b008fe3c0d512ddde31f
+[2025-05-14T18:31:26.894Z] INFO: 30 Job Id in the Worker
+[2025-05-14T18:31:26.894Z] INFO: Transaction completed: https://holesky.etherscan.io/tx/0x05fefb7af9e6f109ab6656994f61e57e26a3416255a2b008fe3c0d512ddde31f
+[2025-05-14T18:33:23.282Z] INFO: ✅Server running on port 4000
+[2025-05-14T18:33:23.319Z] INFO: ✅ MongoDB Connected
+[2025-05-14T18:33:23.923Z] INFO: In the Middlewares....
+[2025-05-14T18:33:24.368Z] INFO: in the worker's transaction 
+[2025-05-14T18:33:24.369Z] INFO: in the Service transaction 
+[2025-05-14T18:33:27.082Z] INFO: SaveTransaction------,0xDAf96cB61d28799b3B174C56D3E9335838E5e46D,0xEbF0701BFf3996B1E443Ce74959C8DEd304B1f11,1,0x6c3bcbd43d284ba3a5f88ab0f105b743939ce5724d329d1a93bb88009687a3ab
+[2025-05-14T18:33:39.892Z] INFO: Service Updated,[object Object],0x6c3bcbd43d284ba3a5f88ab0f105b743939ce5724d329d1a93bb88009687a3ab
+[2025-05-14T18:33:39.892Z] INFO: 31 Job Id in the Worker
+[2025-05-14T18:33:39.893Z] INFO: Transaction completed: https://holesky.etherscan.io/tx/0x6c3bcbd43d284ba3a5f88ab0f105b743939ce5724d329d1a93bb88009687a3ab
+[2025-05-14T18:36:19.161Z] INFO: ✅Server running on port 4000
+[2025-05-14T18:36:19.198Z] INFO: ✅ MongoDB Connected
+[2025-05-14T18:36:20.095Z] INFO: In the Middlewares....
+[2025-05-14T18:36:20.533Z] INFO: in the worker's transaction 
+[2025-05-14T18:36:20.534Z] INFO: in the Service transaction 
+[2025-05-14T18:36:23.218Z] INFO: SaveTransaction------,0xDAf96cB61d28799b3B174C56D3E9335838E5e46D,0xEbF0701BFf3996B1E443Ce74959C8DEd304B1f11,1,0x69afd466cdb529d8225b4be7f916e4fde4e176e568ed6fb683d6a7488c99a69d
+[2025-05-14T18:36:39.365Z] INFO: Service Updated,[object Object],0x69afd466cdb529d8225b4be7f916e4fde4e176e568ed6fb683d6a7488c99a69d
+[2025-05-14T18:36:39.365Z] INFO: 32 Job Id in the Worker
+[2025-05-14T18:36:39.366Z] INFO: Transaction completed: https://holesky.etherscan.io/tx/0x69afd466cdb529d8225b4be7f916e4fde4e176e568ed6fb683d6a7488c99a69d
+[2025-05-14T18:38:27.344Z] INFO: ✅Server running on port 4000
+[2025-05-14T18:38:27.377Z] INFO: ✅ MongoDB Connected
+[2025-05-14T18:38:28.123Z] INFO: In the Middlewares....
+[2025-05-14T18:38:28.600Z] INFO: in the worker's transaction 
+[2025-05-14T18:38:28.601Z] INFO: in the Service transaction 
+[2025-05-14T18:38:31.112Z] INFO: SaveTransaction------,0xDAf96cB61d28799b3B174C56D3E9335838E5e46D,0xEbF0701BFf3996B1E443Ce74959C8DEd304B1f11,1,0x5417b86cc68c761cbb7aa16210c2d1ec68b84ddd601a2fc35e5f2bb0973bd6b4
+[2025-05-14T18:38:43.539Z] INFO: Service Updated,[object Object],0x5417b86cc68c761cbb7aa16210c2d1ec68b84ddd601a2fc35e5f2bb0973bd6b4
+[2025-05-14T18:38:43.540Z] INFO: 33 Job Id in the Worker
+[2025-05-14T18:38:43.540Z] INFO: Transaction completed: https://holesky.etherscan.io/tx/0x5417b86cc68c761cbb7aa16210c2d1ec68b84ddd601a2fc35e5f2bb0973bd6b4
+[2025-05-14T18:40:12.909Z] INFO: ✅Server running on port 4000
+[2025-05-14T18:40:12.941Z] INFO: ✅ MongoDB Connected
+[2025-05-14T18:40:13.655Z] INFO: In the Middlewares....
+[2025-05-14T18:40:14.061Z] INFO: in the worker's transaction 
+[2025-05-14T18:40:14.061Z] INFO: in the Service transaction 
+[2025-05-14T18:40:16.787Z] INFO: SaveTransaction------,0xDAf96cB61d28799b3B174C56D3E9335838E5e46D,0xEbF0701BFf3996B1E443Ce74959C8DEd304B1f11,1,0xa7e642e77c9c2070fba67b2e39cc6d2fb33b93fbe25df074b0c3634916c46697
+[2025-05-14T18:40:26.879Z] INFO: Service Updated,[object Object],0xa7e642e77c9c2070fba67b2e39cc6d2fb33b93fbe25df074b0c3634916c46697
+[2025-05-14T18:40:26.880Z] INFO: 34 Job Id in the Worker
+[2025-05-14T18:40:26.880Z] INFO: Transaction completed: https://holesky.etherscan.io/tx/0xa7e642e77c9c2070fba67b2e39cc6d2fb33b93fbe25df074b0c3634916c46697
+[2025-05-14T19:07:59.630Z] INFO: In the Middlewares....
+[2025-05-14T19:08:00.416Z] INFO: in the Worker transaction 
+[2025-05-14T19:08:00.421Z] INFO: 0xDAf96cB61d28799b3B174C56D3E9335838E5e46D,0xEbF0701BFf3996B1E443Ce74959C8DEd304B1f11,500,0xfacce3dca73f4e05690000ae73b9431e206a9a9dff5f14bfc29105cf17ebb73b
+[2025-05-14T19:08:01.667Z] ERROR: Transaction failed: Error happened while trying to execute a function inside a smart contract
+[2025-05-14T19:08:08.802Z] INFO: In the Middlewares....
+[2025-05-14T19:08:18.641Z] INFO: In the Middlewares....
+[2025-05-14T19:08:39.286Z] INFO: ✅Server running on port 4000
+[2025-05-14T19:08:39.316Z] INFO: ✅ MongoDB Connected
+[2025-05-14T19:08:42.821Z] INFO: In the Middlewares....
+[2025-05-14T19:09:23.082Z] INFO: In the Middlewares....
+[2025-05-14T19:09:23.537Z] INFO: in the worker's transaction 
+[2025-05-14T19:09:23.538Z] INFO: in the Service transaction 
+[2025-05-14T19:09:26.345Z] INFO: SaveTransaction------,0xDAf96cB61d28799b3B174C56D3E9335838E5e46D,0xEbF0701BFf3996B1E443Ce74959C8DEd304B1f11,1,0x1fc760880df998551fb7ab743b5b8764f01e38f0fd0835c0f121a713496e09d3
+[2025-05-14T19:09:38.553Z] INFO: Service Updated,[object Object],0x1fc760880df998551fb7ab743b5b8764f01e38f0fd0835c0f121a713496e09d3
+[2025-05-14T19:09:38.553Z] INFO: 35 Job Id in the Worker
+[2025-05-14T19:09:38.553Z] INFO: Transaction completed: https://holesky.etherscan.io/tx/0x1fc760880df998551fb7ab743b5b8764f01e38f0fd0835c0f121a713496e09d3
+[2025-05-14T19:18:18.551Z] INFO: ✅Server running on port 4000
+[2025-05-14T19:18:18.589Z] INFO: ✅ MongoDB Connected
+[2025-05-14T19:18:42.078Z] INFO: ✅Server running on port 4000
+[2025-05-14T19:18:42.119Z] INFO: ✅ MongoDB Connected
+[2025-05-14T19:18:46.743Z] INFO: In the Middlewares....
+[2025-05-14T19:18:47.248Z] INFO: in the worker's transaction 
+[2025-05-14T19:18:47.249Z] INFO: in the Service transaction 
+[2025-05-14T19:18:50.496Z] INFO: SaveTransaction------,0xDAf96cB61d28799b3B174C56D3E9335838E5e46D,0xEbF0701BFf3996B1E443Ce74959C8DEd304B1f11,1,0x4788ae74a7af660227a312ed65ab65524223b3b53ed1ee7d886cd807c519dbeb
+[2025-05-14T19:19:03.567Z] INFO: Service Updated,[object Object],0x4788ae74a7af660227a312ed65ab65524223b3b53ed1ee7d886cd807c519dbeb
+[2025-05-14T19:19:03.568Z] INFO: 36 Job Id in the Worker
+[2025-05-14T19:19:03.568Z] INFO: Transaction completed: https://holesky.etherscan.io/tx/0x4788ae74a7af660227a312ed65ab65524223b3b53ed1ee7d886cd807c519dbeb
+[2025-05-14T19:20:04.602Z] INFO: ✅Server running on port 4000
+[2025-05-14T19:20:04.652Z] INFO: ✅ MongoDB Connected
+[2025-05-14T19:27:03.831Z] INFO: ✅Server running on port 4000
+[2025-05-14T19:27:03.886Z] INFO: ✅ MongoDB Connected
+[2025-05-14T19:30:20.112Z] INFO: In the Middlewares....
+[2025-05-14T19:30:20.584Z] INFO: in the worker's transaction 
+[2025-05-14T19:30:20.585Z] INFO: in the Service transaction 
+[2025-05-14T19:30:23.434Z] INFO: SaveTransaction------,0xDAf96cB61d28799b3B174C56D3E9335838E5e46D,0xEbF0701BFf3996B1E443Ce74959C8DEd304B1f11,1,0xb8e08aa284ec3d60a2accf42674b57a4a8c0a0107428d0769a3f7cc52bd7fc45
+[2025-05-14T19:30:50.635Z] INFO: Service Updated,[object Object],0xb8e08aa284ec3d60a2accf42674b57a4a8c0a0107428d0769a3f7cc52bd7fc45
+[2025-05-14T19:30:50.636Z] INFO: 37 Job Id in the Worker
+[2025-05-14T19:30:50.636Z] INFO: Transaction completed: https://holesky.etherscan.io/tx/0xb8e08aa284ec3d60a2accf42674b57a4a8c0a0107428d0769a3f7cc52bd7fc45
+[2025-05-14T19:32:43.348Z] INFO: In the Middlewares....
+[2025-05-14T19:32:43.907Z] INFO: in the worker's transaction 
+[2025-05-14T19:32:43.908Z] INFO: in the Service transaction 
+[2025-05-14T19:32:44.975Z] INFO: In the Middlewares....
+[2025-05-14T19:32:46.586Z] INFO: SaveTransaction------,0xDAf96cB61d28799b3B174C56D3E9335838E5e46D,0xEbF0701BFf3996B1E443Ce74959C8DEd304B1f11,12,0x6eb017422d2c709c95b32ec9487ae37ac9b7339743c96a057d5fc32cc0dfcc0e
+[2025-05-14T19:32:50.635Z] INFO: In the Middlewares....
+[2025-05-14T19:32:53.066Z] INFO: In the Middlewares....
+[2025-05-14T19:33:01.841Z] INFO: Service Updated,[object Object],0x6eb017422d2c709c95b32ec9487ae37ac9b7339743c96a057d5fc32cc0dfcc0e
+[2025-05-14T19:33:01.841Z] INFO: 38 Job Id in the Worker
+[2025-05-14T19:33:01.841Z] INFO: Transaction completed: https://holesky.etherscan.io/tx/0x6eb017422d2c709c95b32ec9487ae37ac9b7339743c96a057d5fc32cc0dfcc0e
+[2025-05-14T19:33:01.844Z] INFO: in the worker's transaction 
+[2025-05-14T19:33:01.844Z] INFO: in the Service transaction 
+[2025-05-14T19:33:04.402Z] INFO: SaveTransaction------,0xDAf96cB61d28799b3B174C56D3E9335838E5e46D,0xEbF0701BFf3996B1E443Ce74959C8DEd304B1f11,121,0xb21ebe83bd1aefad10635d9fc495ab25ccb6de0cf9ff2229e56dfe6f890b4ba2
+[2025-05-14T19:33:17.586Z] INFO: Service Updated,[object Object],0xb21ebe83bd1aefad10635d9fc495ab25ccb6de0cf9ff2229e56dfe6f890b4ba2
+[2025-05-14T19:33:17.586Z] INFO: 39 Job Id in the Worker
+[2025-05-14T19:33:17.587Z] INFO: Transaction completed: https://holesky.etherscan.io/tx/0xb21ebe83bd1aefad10635d9fc495ab25ccb6de0cf9ff2229e56dfe6f890b4ba2
+[2025-05-14T19:33:17.588Z] INFO: in the worker's transaction 
+[2025-05-14T19:33:17.588Z] INFO: in the Service transaction 
+[2025-05-14T19:33:20.099Z] INFO: SaveTransaction------,0xDAf96cB61d28799b3B174C56D3E9335838E5e46D,0xEbF0701BFf3996B1E443Ce74959C8DEd304B1f11,10,0x4b2432e3bb2ffaba2f25e672308a096e336dd9fc2e906b177e3f658cbb039528
+[2025-05-14T19:33:25.865Z] INFO: Service Updated,[object Object],0x4b2432e3bb2ffaba2f25e672308a096e336dd9fc2e906b177e3f658cbb039528
+[2025-05-14T19:33:25.866Z] INFO: 40 Job Id in the Worker
+[2025-05-14T19:33:25.866Z] INFO: Transaction completed: https://holesky.etherscan.io/tx/0x4b2432e3bb2ffaba2f25e672308a096e336dd9fc2e906b177e3f658cbb039528
+[2025-05-14T19:33:25.868Z] INFO: in the worker's transaction 
+[2025-05-14T19:33:25.868Z] INFO: in the Service transaction 
+[2025-05-14T19:33:28.530Z] INFO: SaveTransaction------,0xDAf96cB61d28799b3B174C56D3E9335838E5e46D,0xEbF0701BFf3996B1E443Ce74959C8DEd304B1f11,101,0xb40f8065d67998bf64ba258882a4f30728a58ee76502bf79d783004da0b83b97
+[2025-05-14T19:33:49.750Z] INFO: Service Updated,[object Object],0xb40f8065d67998bf64ba258882a4f30728a58ee76502bf79d783004da0b83b97
+[2025-05-14T19:33:49.751Z] INFO: 41 Job Id in the Worker
+[2025-05-14T19:33:49.751Z] INFO: Transaction completed: https://holesky.etherscan.io/tx/0xb40f8065d67998bf64ba258882a4f30728a58ee76502bf79d783004da0b83b97
+[2025-05-14T19:35:20.392Z] INFO: ✅Server running on port 4000
+[2025-05-14T19:35:20.433Z] INFO: ✅ MongoDB Connected
+[2025-05-15T05:16:03.388Z] INFO: ✅Server running on port 4000
+[2025-05-15T05:16:33.349Z] ERROR: ❌ MongoDB Connection Error: connect ECONNREFUSED 127.0.0.1:27017, connect ECONNREFUSED ::1:27017
+[2025-05-15T05:21:12.188Z] INFO: ✅Server running on port 4000
+[2025-05-15T05:21:12.225Z] INFO: ✅ MongoDB Connected
+[2025-05-15T05:24:27.362Z] INFO: In the Middlewares....
+[2025-05-15T05:24:28.031Z] INFO: in the worker's transaction 
+[2025-05-15T05:24:28.032Z] INFO: in the Service transaction 
+[2025-05-15T05:24:31.236Z] INFO: SaveTransaction------,0xDAf96cB61d28799b3B174C56D3E9335838E5e46D,0xEbF0701BFf3996B1E443Ce74959C8DEd304B1f11,101,0xf91313d1f69e0e639cde7710c866ab18ff7626d11b77fc662067c944c8237a2d
+[2025-05-15T05:24:50.874Z] INFO: Service Updated,[object Object],0xf91313d1f69e0e639cde7710c866ab18ff7626d11b77fc662067c944c8237a2d
+[2025-05-15T05:24:50.874Z] INFO: 42 Job Id in the Worker
+[2025-05-15T05:24:50.874Z] INFO: Transaction completed: https://holesky.etherscan.io/tx/0xf91313d1f69e0e639cde7710c866ab18ff7626d11b77fc662067c944c8237a2d
+[2025-05-15T05:25:28.954Z] INFO: In the Middlewares....
+[2025-05-15T05:25:29.430Z] INFO: in the worker's transaction 
+[2025-05-15T05:25:29.430Z] INFO: in the Service transaction 
+[2025-05-15T05:25:31.814Z] INFO: SaveTransaction------,0xDAf96cB61d28799b3B174C56D3E9335838E5e46D,0xEbF0701BFf3996B1E443Ce74959C8DEd304B1f11,101,0x0dacb47501d0640fba0856d2f19204d23c9e143cb840d6e44482dd210f03290f
+[2025-05-15T05:25:40.187Z] INFO: Service Updated,[object Object],0x0dacb47501d0640fba0856d2f19204d23c9e143cb840d6e44482dd210f03290f
+[2025-05-15T05:25:40.187Z] INFO: 43 Job Id in the Worker
+[2025-05-15T05:25:40.187Z] INFO: Transaction completed: https://holesky.etherscan.io/tx/0x0dacb47501d0640fba0856d2f19204d23c9e143cb840d6e44482dd210f03290f
+[2025-05-15T05:58:51.664Z] INFO: ✅Server running on port 4000
+[2025-05-15T05:58:51.713Z] INFO: ✅ MongoDB Connected
+[2025-05-15T05:59:55.636Z] INFO: In the Middlewares....
+[2025-05-15T05:59:56.056Z] INFO: in the worker's transaction 
+[2025-05-15T05:59:56.057Z] INFO: in the Service transaction 
+[2025-05-15T05:59:58.768Z] INFO: SaveTransaction------,0xDAf96cB61d28799b3B174C56D3E9335838E5e46D,0xEbF0701BFf3996B1E443Ce74959C8DEd304B1f11,101,0xb859cf887b3b608513a8e6220e78635b3d119b460fe127e4ac01d56c3ea16c0f
+[2025-05-15T06:00:07.557Z] INFO: Service Updated,[object Object],0xb859cf887b3b608513a8e6220e78635b3d119b460fe127e4ac01d56c3ea16c0f
+[2025-05-15T06:00:07.558Z] INFO: 44 Job Id in the Worker
+[2025-05-15T06:00:07.558Z] INFO: Transaction completed: https://holesky.etherscan.io/tx/0xb859cf887b3b608513a8e6220e78635b3d119b460fe127e4ac01d56c3ea16c0f
+[2025-05-15T06:03:04.329Z] INFO: ✅Server running on port 4000
+[2025-05-15T06:03:04.365Z] INFO: ✅ MongoDB Connected
+[2025-05-15T06:03:11.490Z] INFO: In the Middlewares....
+[2025-05-15T06:03:11.955Z] INFO: in the worker's transaction 
+[2025-05-15T06:03:11.956Z] INFO: in the Service transaction 
+[2025-05-15T06:03:14.064Z] INFO: SaveTransaction------,0xDAf96cB61d28799b3B174C56D3E9335838E5e46D,0xEbF0701BFf3996B1E443Ce74959C8DEd304B1f11,101,0xaa03a36425fc6599593aa329b3d354cb58def93e0f3c38718723c31c8683c296
+[2025-05-15T06:03:25.726Z] INFO: Service Updated,[object Object],0xaa03a36425fc6599593aa329b3d354cb58def93e0f3c38718723c31c8683c296
+[2025-05-15T06:03:25.726Z] INFO: 45 Job Id in the Worker
+[2025-05-15T06:03:25.726Z] INFO: Transaction completed: https://holesky.etherscan.io/tx/0xaa03a36425fc6599593aa329b3d354cb58def93e0f3c38718723c31c8683c296
+[2025-05-15T06:17:09.697Z] INFO: ✅Server running on port 4000
+[2025-05-15T06:17:09.733Z] INFO: ✅ MongoDB Connected
+[2025-05-15T06:17:21.745Z] INFO: In the Middlewares....
+[2025-05-15T06:17:22.205Z] INFO: in the worker's transaction 
+[2025-05-15T06:17:22.206Z] INFO: in the Service transaction 
+[2025-05-15T06:17:24.224Z] INFO: SaveTransaction------,0xDAf96cB61d28799b3B174C56D3E9335838E5e46D,0xEbF0701BFf3996B1E443Ce74959C8DEd304B1f11,101,0x3e4fffc0d067d116fb1f81564a03e984c2d13dcaf84968b5271c9de533697fcd
+[2025-05-15T06:17:39.781Z] INFO: Service Updated,[object Object],0x3e4fffc0d067d116fb1f81564a03e984c2d13dcaf84968b5271c9de533697fcd
+[2025-05-15T06:17:39.781Z] INFO: 46 Job Id in the Worker
+[2025-05-15T06:17:39.781Z] INFO: Transaction completed: https://holesky.etherscan.io/tx/0x3e4fffc0d067d116fb1f81564a03e984c2d13dcaf84968b5271c9de533697fcd
+[2025-05-15T06:18:25.697Z] INFO: ✅Server running on port 4000
+[2025-05-15T06:18:25.730Z] INFO: ✅ MongoDB Connected
+[2025-05-15T06:18:45.795Z] INFO: ✅Server running on port 4000
+[2025-05-15T06:18:45.832Z] INFO: ✅ MongoDB Connected
+[2025-05-15T06:19:15.998Z] INFO: ✅Server running on port 4000
+[2025-05-15T06:19:16.034Z] INFO: ✅ MongoDB Connected
+[2025-05-15T06:19:30.434Z] INFO: ✅Server running on port 4000
+[2025-05-15T06:19:30.468Z] INFO: ✅ MongoDB Connected
+[2025-05-15T06:19:32.261Z] INFO: In the Middlewares....
+[2025-05-15T06:19:32.662Z] INFO: in the worker's transaction 
+[2025-05-15T06:19:32.663Z] INFO: in the Service transaction 
+[2025-05-15T06:19:34.662Z] INFO: SaveTransaction------,0xDAf96cB61d28799b3B174C56D3E9335838E5e46D,0xEbF0701BFf3996B1E443Ce74959C8DEd304B1f11,101,0x9c8dee0dea58cb9b469c3bf559dfad1748e70934320e753030cd7a72f54ed601
+[2025-05-15T06:19:44.455Z] INFO: Service Updated,[object Object],0x9c8dee0dea58cb9b469c3bf559dfad1748e70934320e753030cd7a72f54ed601
+[2025-05-15T06:19:44.456Z] INFO: 47 Job Id in the Worker
+[2025-05-15T06:19:44.456Z] INFO: Transaction completed: https://holesky.etherscan.io/tx/0x9c8dee0dea58cb9b469c3bf559dfad1748e70934320e753030cd7a72f54ed601
+[2025-05-15T06:20:48.217Z] INFO: ✅Server running on port 4000
+[2025-05-15T06:20:48.250Z] INFO: ✅ MongoDB Connected
+[2025-05-15T06:21:18.150Z] INFO: ✅Server running on port 4000
+[2025-05-15T06:21:18.187Z] INFO: ✅ MongoDB Connected
+[2025-05-15T06:21:20.037Z] INFO: In the Middlewares....
+[2025-05-15T06:21:20.410Z] INFO: in the worker's transaction 
+[2025-05-15T06:21:20.411Z] INFO: in the Service transaction 
+[2025-05-15T06:21:22.596Z] INFO: SaveTransaction------,0xDAf96cB61d28799b3B174C56D3E9335838E5e46D,0xEbF0701BFf3996B1E443Ce74959C8DEd304B1f11,101,0xff9ac17fff3f43895ad3f16dae71accc52ba8896e759746c78104edfc0725faa
+[2025-05-15T06:21:27.372Z] INFO: Service Updated,[object Object],0xff9ac17fff3f43895ad3f16dae71accc52ba8896e759746c78104edfc0725faa
+[2025-05-15T06:21:27.372Z] INFO: 48 Job Id in the Worker
+[2025-05-15T06:21:27.372Z] INFO: Transaction completed: https://holesky.etherscan.io/tx/0xff9ac17fff3f43895ad3f16dae71accc52ba8896e759746c78104edfc0725faa
+[2025-05-15T06:23:09.568Z] INFO: ✅Server running on port 4000
+[2025-05-15T06:23:09.607Z] INFO: ✅ MongoDB Connected
+[2025-05-15T06:23:23.739Z] INFO: ✅Server running on port 4000
+[2025-05-15T06:23:23.772Z] INFO: ✅ MongoDB Connected
+[2025-05-15T06:24:12.686Z] INFO: ✅Server running on port 4000
+[2025-05-15T06:24:12.721Z] INFO: ✅ MongoDB Connected
+[2025-05-15T06:27:42.727Z] INFO: ✅Server running on port 4000
+[2025-05-15T06:27:42.761Z] INFO: ✅ MongoDB Connected
+[2025-05-15T06:27:58.402Z] INFO: ✅Server running on port 4000
+[2025-05-15T06:27:58.433Z] INFO: ✅ MongoDB Connected
+[2025-05-15T06:28:10.227Z] INFO: ✅Server running on port 4000
+[2025-05-15T06:28:10.264Z] INFO: ✅ MongoDB Connected
+[2025-05-15T06:28:11.866Z] INFO: In the Middlewares....
+[2025-05-15T06:28:12.350Z] INFO: in the worker's transaction 
+[2025-05-15T06:28:12.351Z] INFO: in the Service transaction 
+[2025-05-15T06:28:15.076Z] INFO: SaveTransaction------,0xDAf96cB61d28799b3B174C56D3E9335838E5e46D,0xEbF0701BFf3996B1E443Ce74959C8DEd304B1f11,101,0x608eb3f8a35e8f34d11ee71c7cc0b3d9d52856be3993b07c038900d00e3f6faf
+[2025-05-15T06:29:04.080Z] INFO: Service Updated,[object Object],0x608eb3f8a35e8f34d11ee71c7cc0b3d9d52856be3993b07c038900d00e3f6faf
+[2025-05-15T06:29:04.081Z] INFO: 49 Job Id in the Worker
+[2025-05-15T06:29:04.081Z] INFO: Transaction completed: https://holesky.etherscan.io/tx/0x608eb3f8a35e8f34d11ee71c7cc0b3d9d52856be3993b07c038900d00e3f6faf
+[2025-05-15T06:29:42.419Z] INFO: ✅Server running on port 4000
+[2025-05-15T06:29:42.454Z] INFO: ✅ MongoDB Connected
+[2025-05-15T06:29:44.972Z] INFO: In the Middlewares....
+[2025-05-15T06:29:45.484Z] INFO: in the worker's transaction 
+[2025-05-15T06:29:45.484Z] INFO: in the Service transaction 
+[2025-05-15T06:29:48.023Z] INFO: SaveTransaction------,0xDAf96cB61d28799b3B174C56D3E9335838E5e46D,0xEbF0701BFf3996B1E443Ce74959C8DEd304B1f11,101,0xe2486b804e336d8e9d151ba15dee10ba2a3faeeb848c40b2c9a4f165211a62b2
+[2025-05-15T06:30:16.725Z] INFO: Service Updated,[object Object],0xe2486b804e336d8e9d151ba15dee10ba2a3faeeb848c40b2c9a4f165211a62b2
+[2025-05-15T06:30:16.725Z] INFO: 50 Job Id in the Worker
+[2025-05-15T06:30:16.725Z] INFO: Transaction completed: https://holesky.etherscan.io/tx/0xe2486b804e336d8e9d151ba15dee10ba2a3faeeb848c40b2c9a4f165211a62b2
+[2025-05-15T06:30:33.790Z] INFO: ✅Server running on port 4000
+[2025-05-15T06:30:33.822Z] INFO: ✅ MongoDB Connected
+[2025-05-15T06:30:36.358Z] INFO: In the Middlewares....
+[2025-05-15T06:30:36.838Z] INFO: in the worker's transaction 
+[2025-05-15T06:30:36.839Z] INFO: in the Service transaction 
+[2025-05-15T06:30:39.355Z] INFO: SaveTransaction------,0xDAf96cB61d28799b3B174C56D3E9335838E5e46D,0xEbF0701BFf3996B1E443Ce74959C8DEd304B1f11,101,0xfb2d68a30f142088a2ee5ee893cd4030185b94014b010ee7da07c1b6c25c9e98
+[2025-05-15T06:30:52.035Z] INFO: Service Updated,[object Object],0xfb2d68a30f142088a2ee5ee893cd4030185b94014b010ee7da07c1b6c25c9e98
+[2025-05-15T06:30:52.035Z] INFO: 51 Job Id in the Worker
+[2025-05-15T06:30:52.035Z] INFO: Transaction completed: https://holesky.etherscan.io/tx/0xfb2d68a30f142088a2ee5ee893cd4030185b94014b010ee7da07c1b6c25c9e98
+[2025-05-15T06:31:08.309Z] INFO: ✅Server running on port 4000
+[2025-05-15T06:31:08.343Z] INFO: ✅ MongoDB Connected
+[2025-05-15T06:31:18.309Z] INFO: ✅Server running on port 4000
+[2025-05-15T06:31:18.342Z] INFO: ✅ MongoDB Connected
+[2025-05-15T06:31:23.123Z] INFO: In the Middlewares....
+[2025-05-15T06:31:23.664Z] INFO: in the worker's transaction 
+[2025-05-15T06:31:23.665Z] INFO: in the Service transaction 
+[2025-05-15T06:31:27.157Z] INFO: SaveTransaction------,0xDAf96cB61d28799b3B174C56D3E9335838E5e46D,0xEbF0701BFf3996B1E443Ce74959C8DEd304B1f11,101,0x95582563f3c3c7f31e6f3031cf992938968ebc19ccb9f64f89f8421ab2825e4c
+[2025-05-15T06:31:39.894Z] INFO: Service Updated,[object Object],0x95582563f3c3c7f31e6f3031cf992938968ebc19ccb9f64f89f8421ab2825e4c
+[2025-05-15T06:31:39.895Z] INFO: 52 Job Id in the Worker
+[2025-05-15T06:31:39.895Z] INFO: Transaction completed: https://holesky.etherscan.io/tx/0x95582563f3c3c7f31e6f3031cf992938968ebc19ccb9f64f89f8421ab2825e4c
+[2025-05-15T06:32:18.650Z] INFO: ✅Server running on port 4000
+[2025-05-15T06:32:18.688Z] INFO: ✅ MongoDB Connected
+[2025-05-15T06:32:42.206Z] INFO: ✅Server running on port 4000
+[2025-05-15T06:32:42.238Z] INFO: ✅ MongoDB Connected
+[2025-05-15T06:32:53.712Z] INFO: ✅Server running on port 4000
+[2025-05-15T06:32:53.748Z] INFO: ✅ MongoDB Connected
+[2025-05-15T06:33:07.290Z] INFO: ✅Server running on port 4000
+[2025-05-15T06:33:07.363Z] INFO: ✅ MongoDB Connected
+[2025-05-15T06:33:21.900Z] INFO: ✅Server running on port 4000
+[2025-05-15T06:33:21.944Z] INFO: ✅ MongoDB Connected
+[2025-05-15T06:33:32.262Z] INFO: ✅Server running on port 4000
+[2025-05-15T06:33:32.297Z] INFO: ✅ MongoDB Connected
+[2025-05-15T06:33:55.686Z] INFO: ✅Server running on port 4000
+[2025-05-15T06:33:55.720Z] INFO: ✅ MongoDB Connected
+[2025-05-15T06:34:14.655Z] INFO: ✅Server running on port 4000
+[2025-05-15T06:34:14.691Z] INFO: ✅ MongoDB Connected
+[2025-05-15T06:34:15.924Z] INFO: In the Middlewares....
+[2025-05-15T06:34:16.397Z] INFO: in the worker's transaction 
+[2025-05-15T06:34:16.397Z] INFO: in the Service transaction 
+[2025-05-15T06:34:18.810Z] INFO: SaveTransaction------,0xDAf96cB61d28799b3B174C56D3E9335838E5e46D,0xEbF0701BFf3996B1E443Ce74959C8DEd304B1f11,101,0x2614092da1b14717244d98107456f50c90a18244a15c8bea61ec787dd2300e8a
+[2025-05-15T06:34:26.704Z] INFO: Service Updated,[object Object],0x2614092da1b14717244d98107456f50c90a18244a15c8bea61ec787dd2300e8a
+[2025-05-15T06:34:26.704Z] INFO: 53 Job Id in the Worker
+[2025-05-15T06:34:26.705Z] INFO: Transaction completed: https://holesky.etherscan.io/tx/0x2614092da1b14717244d98107456f50c90a18244a15c8bea61ec787dd2300e8a
+[2025-05-15T06:35:15.120Z] INFO: ✅Server running on port 4000
+[2025-05-15T06:35:15.153Z] INFO: ✅ MongoDB Connected
+[2025-05-15T06:35:16.391Z] INFO: In the Middlewares....
+[2025-05-15T06:35:16.816Z] INFO: in the worker's transaction 
+[2025-05-15T06:35:16.817Z] INFO: in the Service transaction 
+[2025-05-15T06:35:19.234Z] INFO: SaveTransaction------,0xDAf96cB61d28799b3B174C56D3E9335838E5e46D,0xEbF0701BFf3996B1E443Ce74959C8DEd304B1f11,101,0xce4360a02e0ba90fdf18e35e77f014029d9dd0eea1828705ef2a3d3678a9955f
+[2025-05-15T06:35:28.669Z] INFO: Service Updated,[object Object],0xce4360a02e0ba90fdf18e35e77f014029d9dd0eea1828705ef2a3d3678a9955f
+[2025-05-15T06:35:28.670Z] INFO: 54 Job Id in the Worker
+[2025-05-15T06:35:28.670Z] INFO: Transaction completed: https://holesky.etherscan.io/tx/0xce4360a02e0ba90fdf18e35e77f014029d9dd0eea1828705ef2a3d3678a9955f
+[2025-05-15T06:36:09.408Z] INFO: ✅Server running on port 4000
+[2025-05-15T06:36:09.445Z] INFO: ✅ MongoDB Connected
+[2025-05-15T06:36:59.882Z] INFO: ✅Server running on port 4000
+[2025-05-15T06:36:59.918Z] INFO: ✅ MongoDB Connected
+[2025-05-15T06:49:19.932Z] INFO: ✅Server running on port 4000
+[2025-05-15T06:49:19.968Z] INFO: ✅ MongoDB Connected
+[2025-05-15T06:49:28.130Z] INFO: ✅Server running on port 4000
+[2025-05-15T06:49:28.168Z] INFO: ✅ MongoDB Connected
+[2025-05-15T06:49:44.661Z] INFO: ✅Server running on port 4000
+[2025-05-15T06:49:44.694Z] INFO: ✅ MongoDB Connected
+[2025-05-15T06:49:57.480Z] INFO: ✅Server running on port 4000
+[2025-05-15T06:49:57.513Z] INFO: ✅ MongoDB Connected
+[2025-05-15T06:51:35.442Z] INFO: ✅Server running on port 4000
+[2025-05-15T06:51:35.476Z] INFO: ✅ MongoDB Connected
+[2025-05-15T06:51:38.177Z] INFO: In the Middlewares....
+[2025-05-15T06:51:38.563Z] INFO: in the worker's transaction 
+[2025-05-15T06:51:38.565Z] INFO: in the Service transaction 
+[2025-05-15T06:51:41.215Z] INFO: SaveTransaction------,0xDAf96cB61d28799b3B174C56D3E9335838E5e46D,0xEbF0701BFf3996B1E443Ce74959C8DEd304B1f11,101,0x8acc55dab9711e13a49d03a13b37aa63915386acd3f4842abddcafe129afcd8f
+[2025-05-15T06:51:50.836Z] INFO: Service Updated,[object Object],0x8acc55dab9711e13a49d03a13b37aa63915386acd3f4842abddcafe129afcd8f
+[2025-05-15T06:51:50.836Z] INFO: 55 Job Id in the Worker
+[2025-05-15T06:51:50.836Z] INFO: Transaction completed: https://holesky.etherscan.io/tx/0x8acc55dab9711e13a49d03a13b37aa63915386acd3f4842abddcafe129afcd8f
+[2025-05-15T06:52:35.890Z] INFO: In the Middlewares....
+[2025-05-15T06:52:36.296Z] INFO: in the worker's transaction 
+[2025-05-15T06:52:36.298Z] INFO: in the Service transaction 
+[2025-05-15T06:52:36.311Z] INFO: In the Middlewares....
+[2025-05-15T06:52:37.094Z] INFO: In the Middlewares....
+[2025-05-15T06:52:37.899Z] INFO: In the Middlewares....
+[2025-05-15T06:52:38.409Z] INFO: SaveTransaction------,0xDAf96cB61d28799b3B174C56D3E9335838E5e46D,0xEbF0701BFf3996B1E443Ce74959C8DEd304B1f11,101,0x56a816bf9677657802498f2e228ec660b75efd9a736b0d8571000371799f1b94
+[2025-05-15T06:52:38.664Z] INFO: In the Middlewares....
+[2025-05-15T06:52:39.398Z] INFO: In the Middlewares....
+[2025-05-15T06:52:40.167Z] INFO: In the Middlewares....
+[2025-05-15T06:53:04.068Z] INFO: Service Updated,[object Object],0x56a816bf9677657802498f2e228ec660b75efd9a736b0d8571000371799f1b94
+[2025-05-15T06:53:04.069Z] INFO: 56 Job Id in the Worker
+[2025-05-15T06:53:04.069Z] INFO: Transaction completed: https://holesky.etherscan.io/tx/0x56a816bf9677657802498f2e228ec660b75efd9a736b0d8571000371799f1b94
+[2025-05-15T06:53:04.071Z] INFO: in the worker's transaction 
+[2025-05-15T06:53:04.071Z] INFO: in the Service transaction 
+[2025-05-15T06:53:07.343Z] INFO: SaveTransaction------,0xDAf96cB61d28799b3B174C56D3E9335838E5e46D,0xEbF0701BFf3996B1E443Ce74959C8DEd304B1f11,101,0x33e05cbb8e9ee5421614ec9b34387e1d9bd383b4ee092056e6e542ba90e819cb
+[2025-05-15T06:53:13.981Z] INFO: Service Updated,[object Object],0x33e05cbb8e9ee5421614ec9b34387e1d9bd383b4ee092056e6e542ba90e819cb
+[2025-05-15T06:53:13.981Z] INFO: 57 Job Id in the Worker
+[2025-05-15T06:53:13.983Z] INFO: Transaction completed: https://holesky.etherscan.io/tx/0x33e05cbb8e9ee5421614ec9b34387e1d9bd383b4ee092056e6e542ba90e819cb
+[2025-05-15T06:53:13.984Z] INFO: in the worker's transaction 
+[2025-05-15T06:53:13.985Z] INFO: in the Service transaction 
+[2025-05-15T06:53:16.122Z] INFO: SaveTransaction------,0xDAf96cB61d28799b3B174C56D3E9335838E5e46D,0xEbF0701BFf3996B1E443Ce74959C8DEd304B1f11,101,0x9c61782d7b9b03e4962cc014b06454806f32ff63c2a3f202fa20ae7530b4ac0b
+[2025-05-15T06:53:52.977Z] INFO: Service Updated,[object Object],0x9c61782d7b9b03e4962cc014b06454806f32ff63c2a3f202fa20ae7530b4ac0b
+[2025-05-15T06:53:52.978Z] INFO: 58 Job Id in the Worker
+[2025-05-15T06:53:52.978Z] INFO: Transaction completed: https://holesky.etherscan.io/tx/0x9c61782d7b9b03e4962cc014b06454806f32ff63c2a3f202fa20ae7530b4ac0b
+[2025-05-15T06:53:52.980Z] INFO: in the worker's transaction 
+[2025-05-15T06:53:52.980Z] INFO: in the Service transaction 
+[2025-05-15T06:53:55.693Z] INFO: SaveTransaction------,0xDAf96cB61d28799b3B174C56D3E9335838E5e46D,0xEbF0701BFf3996B1E443Ce74959C8DEd304B1f11,101,0x9d762a573b0a015a41c9a8cfbc5c410804225be0cb283ae4c550b207f5b4cc66
+[2025-05-15T06:54:02.227Z] INFO: Service Updated,[object Object],0x9d762a573b0a015a41c9a8cfbc5c410804225be0cb283ae4c550b207f5b4cc66
+[2025-05-15T06:54:02.227Z] INFO: 59 Job Id in the Worker
+[2025-05-15T06:54:02.227Z] INFO: Transaction completed: https://holesky.etherscan.io/tx/0x9d762a573b0a015a41c9a8cfbc5c410804225be0cb283ae4c550b207f5b4cc66
+[2025-05-15T06:54:02.229Z] INFO: in the worker's transaction 
+[2025-05-15T06:54:02.229Z] INFO: in the Service transaction 
+[2025-05-15T06:54:04.680Z] INFO: SaveTransaction------,0xDAf96cB61d28799b3B174C56D3E9335838E5e46D,0xEbF0701BFf3996B1E443Ce74959C8DEd304B1f11,101,0xd903313efb9d1302164dc9e421c8ed586a08c341dabda637b48f6b2c4d0c79ba
+[2025-05-15T06:54:27.481Z] INFO: Service Updated,[object Object],0xd903313efb9d1302164dc9e421c8ed586a08c341dabda637b48f6b2c4d0c79ba
+[2025-05-15T06:54:27.482Z] INFO: 60 Job Id in the Worker
+[2025-05-15T06:54:27.482Z] INFO: Transaction completed: https://holesky.etherscan.io/tx/0xd903313efb9d1302164dc9e421c8ed586a08c341dabda637b48f6b2c4d0c79ba
+[2025-05-15T06:54:27.485Z] INFO: in the worker's transaction 
+[2025-05-15T06:54:27.485Z] INFO: in the Service transaction 
+[2025-05-15T06:54:29.631Z] INFO: SaveTransaction------,0xDAf96cB61d28799b3B174C56D3E9335838E5e46D,0xEbF0701BFf3996B1E443Ce74959C8DEd304B1f11,101,0x3236b3d0451597cabec1ef5e4f2b7542daa6cfdb77081cc944f2b21bb9a2ee2b
+[2025-05-15T06:54:38.270Z] INFO: Service Updated,[object Object],0x3236b3d0451597cabec1ef5e4f2b7542daa6cfdb77081cc944f2b21bb9a2ee2b
+[2025-05-15T06:54:38.270Z] INFO: 61 Job Id in the Worker
+[2025-05-15T06:54:38.270Z] INFO: Transaction completed: https://holesky.etherscan.io/tx/0x3236b3d0451597cabec1ef5e4f2b7542daa6cfdb77081cc944f2b21bb9a2ee2b
+[2025-05-15T06:54:38.271Z] INFO: in the worker's transaction 
+[2025-05-15T06:54:38.271Z] INFO: in the Service transaction 
+[2025-05-15T06:54:40.941Z] INFO: SaveTransaction------,0xDAf96cB61d28799b3B174C56D3E9335838E5e46D,0xEbF0701BFf3996B1E443Ce74959C8DEd304B1f11,101,0xc7e9c56b37844b1c77faabfaf5a209e0cf35989219b360cb7c2801c310ba2066
+[2025-05-15T06:54:50.564Z] INFO: Service Updated,[object Object],0xc7e9c56b37844b1c77faabfaf5a209e0cf35989219b360cb7c2801c310ba2066
+[2025-05-15T06:54:50.564Z] INFO: 62 Job Id in the Worker
+[2025-05-15T06:54:50.564Z] INFO: Transaction completed: https://holesky.etherscan.io/tx/0xc7e9c56b37844b1c77faabfaf5a209e0cf35989219b360cb7c2801c310ba2066
+[2025-05-15T06:55:55.079Z] INFO: ✅Server running on port 4000
+[2025-05-15T06:55:55.114Z] INFO: ✅ MongoDB Connected
+[2025-05-15T07:13:05.687Z] INFO: ✅Server running on port 4000
+[2025-05-15T07:13:05.721Z] INFO: ✅ MongoDB Connected
+[2025-05-15T07:13:07.622Z] INFO: In the Middlewares....
+[2025-05-15T07:13:08.227Z] INFO: in the worker's transaction 
+[2025-05-15T07:13:08.228Z] INFO: in the Service transaction 
+[2025-05-15T07:13:11.656Z] INFO: SaveTransaction------,0xDAf96cB61d28799b3B174C56D3E9335838E5e46D,0xEbF0701BFf3996B1E443Ce74959C8DEd304B1f11,101,0x734cb03c8298a94ed9bb1ced2dca8692c1f93520cf6390e716cac1e628082b83
+[2025-05-15T07:13:51.455Z] INFO: Service Updated,[object Object],0x734cb03c8298a94ed9bb1ced2dca8692c1f93520cf6390e716cac1e628082b83
+[2025-05-15T07:13:51.456Z] INFO: 63 Job Id in the Worker
+[2025-05-15T07:13:51.456Z] INFO: Transaction completed: https://holesky.etherscan.io/tx/0x734cb03c8298a94ed9bb1ced2dca8692c1f93520cf6390e716cac1e628082b83
+[2025-05-15T07:14:01.960Z] INFO: In the Middlewares....
+[2025-05-15T07:14:02.378Z] INFO: in the worker's transaction 
+[2025-05-15T07:14:02.380Z] INFO: in the Service transaction 
+[2025-05-15T07:14:04.378Z] INFO: SaveTransaction------,0xDAf96cB61d28799b3B174C56D3E9335838E5e46D,0xEbF0701BFf3996B1E443Ce74959C8DEd304B1f11,101,0x6ddb59ccad02fcc4969b847c3878135fe324a9882bf079e5bc2e974671c761dd
+[2025-05-15T07:14:14.257Z] INFO: Service Updated,[object Object],0x6ddb59ccad02fcc4969b847c3878135fe324a9882bf079e5bc2e974671c761dd
+[2025-05-15T07:14:14.258Z] INFO: 64 Job Id in the Worker
+[2025-05-15T07:14:14.258Z] INFO: Transaction completed: https://holesky.etherscan.io/tx/0x6ddb59ccad02fcc4969b847c3878135fe324a9882bf079e5bc2e974671c761dd
+[2025-05-15T07:14:23.166Z] INFO: In the Middlewares....
+[2025-05-15T07:14:24.597Z] INFO: in the worker's transaction 
+[2025-05-15T07:14:24.598Z] INFO: in the Service transaction 
+[2025-05-15T07:14:27.996Z] INFO: SaveTransaction------,0xDAf96cB61d28799b3B174C56D3E9335838E5e46D,0xEbF0701BFf3996B1E443Ce74959C8DEd304B1f11,101,0xc9052c8cb20c482253146978c88478c5eae98ec029f011224ccd672ef2325a9f
+[2025-05-15T07:14:38.837Z] INFO: Service Updated,[object Object],0xc9052c8cb20c482253146978c88478c5eae98ec029f011224ccd672ef2325a9f
+[2025-05-15T07:14:38.838Z] INFO: 65 Job Id in the Worker
+[2025-05-15T07:14:38.838Z] INFO: Transaction completed: https://holesky.etherscan.io/tx/0xc9052c8cb20c482253146978c88478c5eae98ec029f011224ccd672ef2325a9f
