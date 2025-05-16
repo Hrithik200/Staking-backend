@@ -1,0 +1,17 @@
+# Ignore node_modules folder
+node_modules/
+
+# Ignore environment variables file
+.env
+
+# Ignore NFT_JSON folder
+NFT_JSON/
+
+# Ignore logs folder
+logs/
+
+# Ignore VSCode settings folder
+.vscode/
+
+# Ignore Package Lock Json file
+package-lock.json
