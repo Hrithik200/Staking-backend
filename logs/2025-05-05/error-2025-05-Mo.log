@@ -1,3 +1,0 @@
-[2025-05-05T09:59:43.039Z] ERROR: Transaction failed: TransferNFT validation failed: numberOfNFT: Path `numberOfNFT` is required.
-[2025-05-05T10:04:00.576Z] ERROR: Transaction failed: TransferNFT validation failed: numberOfNFT: Path `numberOfNFT` is required.
-[2025-05-05T10:08:04.092Z] ERROR: Transaction failed: TransferNFT validation failed: numberOfNFT: Path `numberOfNFT` is required.
