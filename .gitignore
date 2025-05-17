@@ -15,3 +15,6 @@ logs/
 
 # Ignore Package Lock Json file
 package-lock.json
+
+# ignore file only used for personal use
+delete.txt

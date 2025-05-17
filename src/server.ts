@@ -58,15 +58,15 @@ listenToContractEvents()
 //     console.log(`Transaction Hash: ${txHash}`);
 // })
 app.use((err: any, req: express.Request, res: express.Response, next: express.NextFunction) => {
-    console.error('Global error handler:', err);
-    res.status(500).json({ error: 'Internal server error' });
-  });
-  app.use((err: any, req: express.Request, res: express.Response, next: express.NextFunction) => {
-    const known = ErrorMap[err.message];
-    const status = known?.status || err.statusCode || 500;
-    const message = known?.message || err.message || "Something went wrong";
+  console.error('Global error handler:', err);
+  res.status(500).json({ error: 'Internal server error' });
+});
+app.use((err: any, req: express.Request, res: express.Response, next: express.NextFunction) => {
+  const known = ErrorMap[err.message];
+  const status = known?.status || err.statusCode || 500;
+  const message = known?.message || err.message || "Something went wrong";
 
-    res.status(status).json({ error: message });
+  res.status(status).json({ error: message });
 });
 
 const PORT = process.env.PORT || 4000;

@@ -1,0 +1,39 @@
+// to get this file
+// ipfs daemon 
+// ipfs get QmY5tBrhvo8Eay9KrS2apESFb9gzyqFyyzbqaSbF66EzGe
+
+dataSources:
+  - kind: ethereum
+    mapping:
+      abis:
+        - file:
+            /: /ipfs/QmdWDnfj4F1J7vkn6UWErywvRR5xSMHaxqEbRqmiWSSJYj
+          name: HrithikToken
+      apiVersion: 0.0.7
+      entities:
+        - Approval
+        - OwnershipTransferred
+        - Transfer
+      eventHandlers:
+        - event: Approval(indexed address,indexed address,uint256)
+          handler: handleApproval
+        - event: OwnershipTransferred(indexed address,indexed address)
+          handler: handleOwnershipTransferred
+        - event: Transfer(indexed address,indexed address,uint256)
+          handler: handleTransfer
+      file:
+        /: /ipfs/QmPe54tDoNifcZXUHs9CBNrdNokqersgWiuC9w3DmZAHb1
+      kind: ethereum/events
+      language: wasm/assemblyscript
+    name: HrithikToken
+    network: holesky
+    source:
+      abi: HrithikToken
+      address: '0x8adD1b66C6665B69A74Eb4c9f71A9Eb0f48d1D32'
+      startBlock: 3578479
+indexerHints:
+  prune: auto
+schema:
+  file:
+    /: /ipfs/QmY5tBrhvo8Eay9KrS2apESFb9gzyqFyyzbqaSbF66EzGe
+specVersion: 1.0.0
